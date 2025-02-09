@@ -1,6 +1,8 @@
 # BitPlaza
 BitPlaza - An offline computer science e-learning application for desktop/PC. Learn and play locally.
 
+<img src="screenshot1.png">
+
 ## Credits
 UI and Graphic Design by Rakshitha
 
