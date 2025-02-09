@@ -1,5 +1,5 @@
 # BitPlaza
-BitPlaza - An offline computer science e-learning application for desktop/PC. Learn and play locally.
+BitPlaza - An offline computer science e-learning application for desktop/PC, aimed at students of all ages. Learn and play locally.
 
 <img src="screenshot1.png">
 
