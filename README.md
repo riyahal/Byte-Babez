@@ -6,7 +6,7 @@ BitPlaza - An offline computer science e-learning application for desktop/PC. Le
 ## Credits
 UI and Graphic Design by Rakshitha
 
-Designed and Developed by Riya, Shikha, Dedeepya
+Designed and Developed by Riya Hal, Shikha Kumari, Dedeepya
 
 ## Steps for Execution
 1. Install the Expo CLI by running this command in your Bash/Terminal: npm install -g expo-cli.
