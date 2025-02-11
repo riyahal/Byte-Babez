@@ -5,6 +5,7 @@ BitPlaza is an offline computer science e-learning application for desktop/PC, a
 
 ## Credits
 Programming by Riya, Shikha Kumari, Dedeepya
+
 Artwork by Rakshitha Gowda
 
 ## Steps for Execution
